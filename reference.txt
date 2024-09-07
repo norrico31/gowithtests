@@ -1,0 +1,11 @@
+run a file
+go run [file].go
+
+run a test
+go test
+
+run a testable examples
+go test -v
+
+benchmark
+go test -bench="."
