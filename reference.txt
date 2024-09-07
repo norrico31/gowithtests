@@ -9,3 +9,6 @@ go test -v
 
 benchmark
 go test -bench="."
+
+coverage tool
+go test -cover
