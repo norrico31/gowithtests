@@ -6,3 +6,6 @@ go test
 
 run a testable examples
 go test -v
+
+benchmark
+go test -bench="."
